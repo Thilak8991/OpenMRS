@@ -1,0 +1,8 @@
+#BROWSER SELECTION
+browser = Chrome
+#APPLICATION URL
+url=https://demo.openmrs.org/openmrs/login.htm
+#APPLICATION USERNAME AND PASSWORD
+loginusername=Admin
+loginpassword=Admin123
+title=Home
